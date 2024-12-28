@@ -1,3 +1,13 @@
+.body {
+    background-color: #C4C4C4 ;
+}
+.header {
+    background-color: #ffffff;
+}
+.footer {
+    background-color: #ffffff;
+}
+
 
 .card__title {
     color: #282828;
@@ -14,15 +24,8 @@
 
 }
 .card {
-    background-color: #C4C4C4 ;
+    background-color: #ffffff ;
     padding: 20px;
 }
 
-header {
-    background-color: #ffffff;
-}
-
-footer {
-    background-color: #ffffff;
-}
 
